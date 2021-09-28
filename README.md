@@ -9,11 +9,9 @@ A simple online whiteboard for online/offline meetings and classes.
 
 ## 📌 Sneak Peek of Site 🙈 :
 
-
-
-https://user-images.githubusercontent.com/79128256/135022271-32e9a183-2995-4608-b071-2070adb91e3b.mp4
-
-
+![Screenshot (57)](https://user-images.githubusercontent.com/79128256/135027877-c9b5eb2e-c92e-4cf3-aedf-8a0688fd629b.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/79128256/135027864-0a9f0a2e-d2a8-4b93-a2cf-eecd12d55a76.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/79128256/135027871-a98d79af-f0c4-4044-921f-9d6052ba8790.png)
 **© 2021 vishal patidar** 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
